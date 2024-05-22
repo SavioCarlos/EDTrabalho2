@@ -1,7 +1,11 @@
 
 # Estruturas de Dados: Comparação de Vetores, Árvores Binárias e Árvores AVL
 Este projeto tem como objetivo comparar o desempenho de três estruturas de dados diferentes: vetor, árvore binária e árvore AVL. 
-A comparação é feita com base nos tempos de inserção e busca de elementos em diferentes ordens (ordenada, inversamente ordenada e aleatória).
+A comparação é feita com base nos tempos de inserção e busca de elementos em diferentes ordens:
+- **Ordenada**
+- **Inversamente Ordenada**
+- **Aleatória**
+
 
 ## Métodos de Ordenação e Busca
 
