@@ -47,6 +47,7 @@ Em seguida, realiza testes de inserção, ordenação e busca para cada estrutur
 
 
 ## Resultados dos Testes Realizados
+Os resultados obtidos mostram os tempos de inserção, ordenação e busca em nanosegundos (ns) para cada estrutura de dados.
 Para cada tamanho de dados (100, 1000, 10000) e cada ordem, foram medidos os seguintes tempos:
 - **Tempo de inserção**
 - **Tempo de ordenação** (apenas para vetor)
@@ -54,6 +55,7 @@ Para cada tamanho de dados (100, 1000, 10000) e cada ordem, foram medidos os seg
 
 ## Exemplo de resultado:
 
+```plaintext
 Testando vetor com 100 elementos na ordem ordenada
 Tempo de insercao no vetor: 37400 ns
 Tempo de ordenacao (Bubble Sort): 368200 ns
