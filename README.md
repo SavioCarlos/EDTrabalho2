@@ -6,14 +6,6 @@ A comparação é feita com base nos tempos de inserção e busca de elementos e
 # Estruturas de Dados
 
 
-# Vetor
-O vetor é uma estrutura de dados que armazena elementos em uma sequência linear. 
-É testado para : 
-- Inserção.
-- Ordenação (Bubble Sort e Merge Sort).
-- Busca (sequencial e binária).
-
-
 
 # Métodos de Ordenação e Busca
 - Vetor
@@ -25,6 +17,15 @@ Inserção e Busca
 
 - Árvore AVL
 Inserção e Busca (com balanceamento automático)
+
+
+
+# Vetor
+O vetor é uma estrutura de dados que armazena elementos em uma sequência linear. 
+É testado para : 
+- Inserção.
+- Ordenação (Bubble Sort e Merge Sort).
+- Busca (sequencial e binária).
 
 
 
