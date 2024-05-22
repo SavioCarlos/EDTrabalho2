@@ -48,10 +48,9 @@ Em seguida, realiza testes de inserção, ordenação e busca para cada estrutur
 
 ## Resultados dos Testes Realizados
 Para cada tamanho de dados (100, 1000, 10000) e cada ordem, foram medidos os seguintes tempos:
-Os resultados são impressos no console e incluem: 
-- Tempo de inserção.
-- Tempo de ordenação (apenas para vetor).
-- Tempo de busca (para primeiro, último, meio, aleatório e inexistente).
+- **Tempo de inserção**
+- **Tempo de ordenação** (apenas para vetor)
+- **Tempo de busca** (para primeiro, último, meio, aleatório e inexistente)
 
 ## Exemplo de resultado:
 
