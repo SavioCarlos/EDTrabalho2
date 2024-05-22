@@ -16,23 +16,19 @@ Inserção e Busca (com balanceamento automático)
 
 
 
-## Vetor
+### Vetor
 O vetor é uma estrutura de dados que armazena elementos em uma sequência linear. 
 É testado para : 
 - Inserção.
 - Ordenação (Bubble Sort e Merge Sort).
 - Busca (sequencial e binária).
 
-
-
-## Árvore Binária de Busca
+### Árvore Binária de Busca
 A árvore binária de busca é uma estrutura de dados onde cada nó tem, no máximo, dois filhos, e a subárvore à esquerda contém valores menores,
 enquanto a subárvore à direita contém valores maiores. 
 É testada para inserção e busca.
 
-
-
-## Árvore AVL
+### Árvore AVL
 A árvore AVL é uma árvore binária de busca auto-balanceada,
 onde a diferença de altura entre as subárvores de qualquer nó é, no máximo, 1. 
 É testada para inserção e busca.
