@@ -9,7 +9,6 @@ Ordenação: Bubble Sort e Merge Sort
 
 Busca: Sequencial e Binária
 - Árvore Binária
-Inserção e Busca
 
 - Árvore AVL
 Inserção e Busca (com balanceamento automático)
