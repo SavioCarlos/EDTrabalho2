@@ -65,13 +65,12 @@ Tempo de busca sequencial (ultimo): 544400 ns
 Tempo de busca sequencial (meio): 142800 ns
 Tempo de busca sequencial (aleatorio): 176800 ns
 Tempo de busca sequencial (inexistente): 237900 ns
- 
 Tempo de busca binaria (primeiro): 2000 ns
 Tempo de busca binaria (ultimo): 1300 ns
 Tempo de busca binaria (meio): 1700 ns
 Tempo de busca binaria (aleatorio): 6900 ns
 Tempo de busca binaria (inexistente): 3500 ns
- 
+
 Testando arvore com 10000 elementos na ordem ordenada
 Tempo de insercao na arvore: 261511900 ns
 Tempo de busca (primeiro): 1200 ns
