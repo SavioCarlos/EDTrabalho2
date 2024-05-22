@@ -56,33 +56,35 @@ Para cada tamanho de dados (100, 1000, 10000) e cada ordem, foram medidos os seg
 ## Exemplo de resultado:
 
 ```plaintext
-Testando vetor com 100 elementos na ordem ordenada
-Tempo de insercao no vetor: 37400 ns
-Tempo de ordenacao (Bubble Sort): 368200 ns
-Tempo de ordenacao (Merge Sort): 126000 ns
-Tempo de busca sequencial (primeiro): 1500 ns
-Tempo de busca sequencial (ultimo): 3900 ns
-Tempo de busca sequencial (meio): 1500 ns
-Tempo de busca sequencial (aleatorio): 1900 ns
-Tempo de busca sequencial (inexistente): 3000 ns
-Tempo de busca binaria (primeiro): 3400 ns
-Tempo de busca binaria (ultimo): 1400 ns
-Tempo de busca binaria (meio): 900 ns
-Tempo de busca binaria (aleatorio): 1100 ns
-Tempo de busca binaria (inexistente): 900 ns
+Testando vetor com 10000 elementos na ordem ordenada
+Tempo de insercao no vetor: 2124200 ns
+Tempo de ordenacao (Bubble Sort): 108483200 ns
+Tempo de ordenacao (Merge Sort): 974100 ns
+Tempo de busca sequencial (primeiro): 800 ns
+Tempo de busca sequencial (ultimo): 544400 ns
+Tempo de busca sequencial (meio): 142800 ns
+Tempo de busca sequencial (aleatorio): 176800 ns
+Tempo de busca sequencial (inexistente): 237900 ns
+ 
+Tempo de busca binaria (primeiro): 2000 ns
+Tempo de busca binaria (ultimo): 1300 ns
+Tempo de busca binaria (meio): 1700 ns
+Tempo de busca binaria (aleatorio): 6900 ns
+Tempo de busca binaria (inexistente): 3500 ns
+ 
+Testando arvore com 10000 elementos na ordem ordenada
+Tempo de insercao na arvore: 261511900 ns
+Tempo de busca (primeiro): 1200 ns
+Tempo de busca (ultimo): 26300 ns
+Tempo de busca (meio): 13100 ns
+Tempo de busca (aleatorio): 12900 ns
+Tempo de busca (inexistente): 28000 ns
+ 
+Testando arvore AVL com 10000 elementos na ordem ordenada
+Tempo de insercao na arvore AVL: 1475600 ns
+Tempo de busca (primeiro): 2826100 ns
+Tempo de busca (ultimo): 136000 ns
+Tempo de busca (meio): 537600 ns
+Tempo de busca (aleatorio): 2600 ns
+Tempo de busca (inexistente): 2700 ns
 
-Testando arvore com 100 elementos na ordem ordenada
-Tempo de insercao na arvore: 1156300 ns
-Tempo de busca (primeiro): 2800 ns
-Tempo de busca (ultimo): 3700 ns
-Tempo de busca (meio): 2700 ns
-Tempo de busca (aleatorio): 900 ns
-Tempo de busca (inexistente): 7800 ns
-
-Testando arvore AVL com 100 elementos na ordem ordenada
-Tempo de insercao na arvore AVL: 1583900 ns
-Tempo de busca (primeiro): 7600 ns
-Tempo de busca (ultimo): 1100 ns
-Tempo de busca (meio): 900 ns
-Tempo de busca (aleatorio): 700 ns
-Tempo de busca (inexistente): 700 ns
