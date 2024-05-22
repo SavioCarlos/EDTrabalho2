@@ -4,33 +4,27 @@ Este projeto tem como objetivo comparar o desempenho de três estruturas de dado
 A comparação é feita com base nos tempos de inserção e busca de elementos em diferentes ordens (ordenada, inversamente ordenada e aleatória).
 
 ## Métodos de Ordenação e Busca
-- Vetor
-Ordenação: Bubble Sort e Merge Sort
-
-Busca: Sequencial e Binária
-- Árvore Binária
-
-- Árvore AVL
-Inserção e Busca (com balanceamento automático)
-
-
 
 ### Vetor
 O vetor é uma estrutura de dados que armazena elementos em uma sequência linear. 
 É testado para : 
 - Inserção.
-- Ordenação (Bubble Sort e Merge Sort).
-- Busca (sequencial e binária).
+- **Ordenação:**
+  - Bubble Sort
+  - Merge Sort
+- **Busca:**
+  - Sequencial
+  - Binária
 
 ### Árvore Binária de Busca
 A árvore binária de busca é uma estrutura de dados onde cada nó tem, no máximo, dois filhos, e a subárvore à esquerda contém valores menores,
 enquanto a subárvore à direita contém valores maiores. 
-É testada para inserção e busca.
+- **Inserção e Busca**
 
 ### Árvore AVL
 A árvore AVL é uma árvore binária de busca auto-balanceada,
 onde a diferença de altura entre as subárvores de qualquer nó é, no máximo, 1. 
-É testada para inserção e busca.
+- **Inserção e Busca** (com balanceamento automático)
 
 
 
