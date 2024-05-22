@@ -86,4 +86,11 @@ Tempo de busca (ultimo): 136000 ns
 Tempo de busca (meio): 537600 ns
 Tempo de busca (aleatorio): 2600 ns
 Tempo de busca (inexistente): 2700 ns
+```
 
+## Conclusões
+Os resultados mostram que:
+
+- **A inserção em árvores AVL é mais lenta devido ao balanceamento, mas as buscas são geralmente mais rápidas e consistentes.**
+- **A ordenação de vetores usando Bubble Sort é significativamente mais lenta em comparação com Merge Sort.**
+- **As buscas em árvores AVL são rápidas e não dependem muito da ordem inicial dos dados, graças ao balanceamento.**
