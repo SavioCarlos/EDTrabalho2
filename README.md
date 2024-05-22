@@ -1,14 +1,30 @@
 
 # Estruturas de Dados: Comparação de Vetores, Árvores Binárias e Árvores AVL
-Este projeto compara o desempenho de vetores, árvores binárias de busca e árvores AVL em operações de inserção, ordenação e busca.
+Este projeto tem como objetivo comparar o desempenho de três estruturas de dados diferentes: vetor, árvore binária e árvore AVL. 
+A comparação é feita com base nos tempos de inserção e busca de elementos em diferentes ordens (ordenada, inversamente ordenada e aleatória).
 
 # Estruturas de Dados
-Vetor
+
+
+# Vetor
 O vetor é uma estrutura de dados que armazena elementos em uma sequência linear. 
 É testado para : 
 - Inserção.
 - Ordenação (Bubble Sort e Merge Sort).
 - Busca (sequencial e binária).
+
+
+
+# Métodos de Ordenação e Busca
+- Vetor
+Ordenação: Bubble Sort e Merge Sort
+
+Busca: Sequencial e Binária
+- Árvore Binária
+Inserção e Busca
+
+- Árvore AVL
+Inserção e Busca (com balanceamento automático)
 
 
 
